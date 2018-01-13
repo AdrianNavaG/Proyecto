@@ -1,2 +1,2 @@
 # Proyecto
-Proyecto de inicio
+Ejemplo de un Proyecto en Java
